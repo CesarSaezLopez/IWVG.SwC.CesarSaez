@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IWVG.SwC.CesarSaez
 ##Practica Software Colaborativo
 
