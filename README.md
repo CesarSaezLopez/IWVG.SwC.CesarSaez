@@ -5,7 +5,7 @@ Master en Ingenieria Web UPM
 Asignatura: Ingeniería Web: Visión General
 Práctica de Software colaborativo
 Arquitecto: Cesar Saez
-Programadores: Juan Rosio, Jorge Cardenas, Emilio Castellano
+Programadores: Juan Rosisco, Jorge Cardenas, Emilio Castellano
 #Descripción
 
 En esta práctica se trabajará en un equipo compuesto por cuatro miembros. Se solicitarán modificaciones y adiciones al repositorio mediante tickets.
