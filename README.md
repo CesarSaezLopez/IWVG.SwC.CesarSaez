@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IWVG.SwC.CesarSaez
 ##Practica Software Colaborativo
 
@@ -7,6 +8,8 @@
 
 ###Arquitecto: Cesar Saez
 ###Programadores: Juan Rosisco, Jorge Cardenas, Emilio Castellano
+=======
+>>>>>>> refs/heads/develop
 ##Descripción
 
  En esta práctica se trabajará en un equipo compuesto por cuatro miembros. 
