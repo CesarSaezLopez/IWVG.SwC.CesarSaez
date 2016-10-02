@@ -35,7 +35,7 @@ public class NumbersTest {
     
     @Test
     public void testDivide() {
-    //    assertEquals(100, this.n.divide());
+    //    assertEquals(4, this.n.divide());
     }
     
     
