@@ -17,7 +17,7 @@
 * Java
 * Maven
 * Eclipse
-* SonarQube
+* Travis
 * GitHub
 
 ##Toda la documentación detallada en la wiki del proyecto
