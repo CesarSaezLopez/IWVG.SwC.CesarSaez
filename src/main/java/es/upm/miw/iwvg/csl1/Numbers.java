@@ -2,8 +2,8 @@ package es.upm.miw.iwvg.csl1;
 
 public class Numbers {
 
-    private int num1 = 20;
-    private int num2 = 5;
+    private int num1;
+    private int num2;
 
     
     public Numbers(int num1, int num2) {
