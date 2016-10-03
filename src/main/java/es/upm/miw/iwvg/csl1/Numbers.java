@@ -39,5 +39,9 @@ public class Numbers {
         return sum;
     }
     
+    public int multiply(){
+        return this.num1 * this.num2;
+    }
+    
     
 }

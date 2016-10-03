@@ -30,7 +30,7 @@ public class NumbersTest {
     
     @Test
     public void testMultiply() {
-    //    assertEquals(100, this.n.multiply());
+        assertEquals(100, this.n.multiply());
     }
     
     @Test
